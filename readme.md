@@ -57,3 +57,9 @@ AZURE_VOICELIVE_VOICE=en-US-Ava:DragonHDLatestNeural
 # Optional: system prompt / instructions (can be large)
 AZURE_VOICELIVE_INSTRUCTIONS="You are a real-time voice intake agent..."\
 ```
+
+## 4. Run 
+
+```
+python azure-realtime-audio.py
+```
